@@ -1,0 +1,51 @@
+apple
+bacon
+banana
+beef
+beetroot
+bell pepper
+cabbage
+capsicum
+carrot
+cauliflower
+cheese
+chicken breast
+chicken wings
+chilli pepper
+corn
+cucumber
+eggplant
+eggs
+fish
+garlic
+ginger
+grapes
+jalepeno
+kiwi
+lemon
+lettuce
+mango
+milk
+onion
+orange
+paprika
+pasta
+pear
+peas
+pineapple
+pomegranate
+pork
+potato
+raddish
+raw ground beef
+rice
+sausages
+shrimp
+soy beans
+spinach
+sweetcorn
+sweetpotato
+tomato
+turnip
+watermelon
+whole chicken
