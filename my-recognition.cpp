@@ -266,7 +266,7 @@ void RecipeAdder() {
 			ffile<<"|\n"+description+"\n";
 
 			ffile.close();
-			
+			void recipeRestore();
 			printf("\nThank you for submitting your recipe.\n\n");
 
 			recall();
